@@ -3,7 +3,6 @@ body {
     font-family: var(--font-dm-sans);
 }
 
-
 .sidebar {
     position: fixed;
     top: 0;
@@ -78,7 +77,6 @@ body {
     padding: 20px 10px;
 }
 
-
 .library .library__button .fa{
     font-size: 20px;
     font-weight: 300;
@@ -140,7 +138,6 @@ body {
     width: 113px;
 }
 
-
 .sidebar .cookies{
     margin: 25px 20px;
 }
@@ -168,7 +165,6 @@ body {
     padding: 8px;
     border-radius: 20px;
 }
-
 
 .disclaimer-premium {
     position: fixed;
